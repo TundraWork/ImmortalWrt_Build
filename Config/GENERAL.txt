@@ -100,8 +100,8 @@ CONFIG_LIGHTTPD_SSL=y
 CONFIG_LIBCURL_OPENSSL=y
 
 # Enable Signing/Encryption (libgcrypt backend)
-CONFIG_PACKAGE_collectd=m
+CONFIG_PACKAGE_collectd=y
 CONFIG_PACKAGE_COLLECTD_ENCRYPTED_NETWORK=y
 
 # Pretty output options
-CONFIG_PACKAGE_ethtool-full=m
+CONFIG_PACKAGE_ethtool-full=y
